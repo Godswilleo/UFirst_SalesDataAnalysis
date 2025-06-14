@@ -70,11 +70,11 @@ Below are questions to be considered for insight generation in this analysis
 
 
 ## THE REPOSITORY
-**sales_2020.xlsx** - The dataset is contained in this excel file
+**sales_2020.xlsx** - The dataset is contained in this Microsoft Excel file
 
-**UFirst Mechandize Limited Sales 2020.ipynb** -  The data analysis and visualization was done in this file.
+**UFirst Mechandize Limited Sales 2020.ipynb** -  The entire data analysis operations and visualization was done in Jupyter notebook file
 
-**Annual Sales Data Analysis Report for 2024.pptx** - This is the presentation file were the report and insights from the data analysis is captured
+**Annual Sales Data Analysis Report for 2024.pptx** - This is the Microsoft Powerpoint presentation file were the report and insights from the data analysis are captured
 
-Also the presentation can be accessed via the link on google slide ["Annual Sales Data Anlysis Report for 2024"](https://docs.google.com/presentation/d/16EX2wdUqw-ld4HHOj0wLOjBf8C3AFGyOYNSpSEKEp8M/edit?slide=id.g3679cd92583_0_119#slide=id.g3679cd92583_0_119)
+Click on this link to access the presentation on Google Slide via this link [Annual Sales Data Anlysis Report for 2024](https://docs.google.com/presentation/d/16EX2wdUqw-ld4HHOj0wLOjBf8C3AFGyOYNSpSEKEp8M/edit?slide=id.g3679cd92583_0_119#slide=id.g3679cd92583_0_119)
 
