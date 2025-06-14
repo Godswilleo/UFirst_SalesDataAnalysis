@@ -1,0 +1,13 @@
+* How long did it take to fulfil an order per month
+* How long did it take to fulfil an order on an average for the whole year
+* Sales fuilfilment per Sales personel
+* Who are our 10 biggest customers
+* What shipping mode costs us the most
+* How many percent of sales price do we expend on shipping
+* What SKU sold more the most
+* What SKU raked in more revenue
+* Most sales per month by volume
+* Most sales per month by revenue
+* How many percent of our high urgency orders are we able to fulfil the same day
+* What are our top 5 selling SKUs
+* What are our top 5 least selling SKUs
