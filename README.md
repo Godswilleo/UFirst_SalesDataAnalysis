@@ -1,7 +1,7 @@
 # UFirst Mechandize Limited
 ## Sales Analysis for the Year 2020
 
-Analyzed by - Godswill Enaohwo (Senior Data Analyst)
+Analyzed by - Godswill Enaohwo (Data Analyst)
 
 ## INTRODUCTION
 
@@ -58,7 +58,7 @@ Below are questions to be considered for insight generation in this analysis
 | :--------|:-----------------|
 | Total Revenue | by month, for the year |
 | Total Volume | by month, for the year |
-| Average Time of Order Fulfilment | by month, by year, by sales person by year |
+| Average Time of Ordesr Fulfilment | by month, by year, by sales person by year |
 | Percentage Same day fulfilment of Critical and High urgency Orders | by month, for the year |
 | 10 Biggest customers by volume | Year |
 | 10 Biggest Customers by revenue | Year |
@@ -69,4 +69,5 @@ Below are questions to be considered for insight generation in this analysis
 | top 5 SKUs with the least sales  | Year |
 
 
+### THIS File will be updated!
 
